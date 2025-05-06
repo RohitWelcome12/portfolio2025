@@ -1,0 +1,12 @@
+.photo-gallery {
+  margin-top: 30px;
+}
+
+.social-media {
+  width: 48px;
+}
+
+.card-body {
+  box-shadow: inset 0px -5px var(--bs-orange), inset 0px 10px var(--bs-black);
+}
+

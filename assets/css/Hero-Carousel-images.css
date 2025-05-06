@@ -1,0 +1,15 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.background-height {
+  min-height: 602px;
+  max-height: 1400px;
+  background: linear-gradient(var(--bs-gray-900), rgba(13,110,253,0) 99%);
+}
+
+.modal-form {
+  padding: 0px !important;
+  margin: 0px;
+}
+
